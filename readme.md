@@ -1,4 +1,6 @@
-### 11. Juli 2024, Brüssel.  
+## Azure Stack for Hosters
+  
+11. Juli 2024, Brüssel.  
   
 Microsoft und CISPE haben heute eine Einigung im Zusammenhang mit der Wettbewerbsbeschwerde von CISPE gegen Microsoft erzielt, die im November 2022 bei der Europäischen Kommission eingereicht wurden. Im Rahmen einer von beiden Parteien unterzeichneten Absichtserklärung hat sich Microsoft verpflichtet, bestimmte Änderungen vorzunehmen, um den Behauptungen der europäischen CISPE-Mitglieder Rechnung zu tragen, und infolgedessen wird CISPE seine Beschwerde gegen Microsoft zurückziehen. Amazon Web Services, ein CISPE-Mitglied, wurde von diesen Verhandlungen ausgeschlossen und wird zusammen mit Google Cloud Platform und AliCloud weder von diesen Bedingungen profitieren noch an sie gebunden sein.
   
@@ -10,9 +12,10 @@ Im Mittelpunkt der Vereinbarung steht eine Zusammenarbeit zwischen den Parteien 
 
 <b>Microsoft hat nun 9 Monate Zeit den Azure Stack HCI for Hosters zu Releasen.  
 Spätestens im April 2025 sollte die Lösung da sein.</b>  
-  
-  
-[Die Vereinbarung über einen gerechten Ausgleich](https://cispe.cloud/cispe-and-microsoft-agree-settlement-in-fair-software-licensing-case/)  
+
+### Presse Mitteilungen
+[11.07.2024 - Die Vereinbarung über einen gerechten Ausgleich](https://cispe.cloud/cispe-and-microsoft-agree-settlement-in-fair-software-licensing-case/)  
+[11.07.2025 - Heise - Cloud-Anbieter nehmen Wettbewerbsbeschwerde gegen Microsoft zurück](https://www.heise.de/news/Cloud-Anbieter-legen-Streit-mit-Microsoft-bei-9798031.html)  
   
 ### Seiten die man im Auge behalten sollten    
 [Azure Virtual Desktop mit Azure Stack HCI](https://learn.microsoft.com/de-de/azure/virtual-desktop/azure-stack-hci-overview#licensing-and-pricing)  
