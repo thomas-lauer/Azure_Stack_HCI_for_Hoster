@@ -30,3 +30,7 @@ Spätestens im April 2025 sollte die Lösung da sein.</b>
 [Ernie Costa - Senior Engineer AVD](https://x.com/eponisdumb)  
 [Thomas Maurer - Principal PM and Chief Evangelist Azure Hybrid](https://x.com/ThomasMaurer)
 
+### Schulungen zu Azure Stack HCI  
+[Rachfahl IT Solutions](https://www.rachfahl.de/)  
+
+
