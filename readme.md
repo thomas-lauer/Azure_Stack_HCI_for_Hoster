@@ -7,6 +7,10 @@ Im Mittelpunkt der Vereinbarung steht eine Zusammenarbeit zwischen den Parteien 
 - Virtuelle Desktop-Infrastruktur für mehrere Sitzungen basierend auf Windows 11
 - Kostenlose erweiterte Sicherheitsupdates (ESU)
 - Lizenzierung mit nutzungsbasierter Bezahlung für SQL Server.
+
+<b>Microsoft hat nun 9 Monate Zeit den Azure Stack HCI for Hosters zu Releasen.  
+Spätestens im April 2025 sollte die Lösung da sein.</b>  
+  
   
 [Die Vereinbarung über einen gerechten Ausgleich](https://cispe.cloud/cispe-and-microsoft-agree-settlement-in-fair-software-licensing-case/)  
   
