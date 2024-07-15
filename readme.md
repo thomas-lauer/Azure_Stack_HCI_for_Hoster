@@ -1,4 +1,5 @@
-11. Juli 2024, Brüssel.  
+11. Juli 2024, Brüssel.
+  
 Microsoft und CISPE haben heute eine Einigung im Zusammenhang mit der Wettbewerbsbeschwerde von CISPE gegen Microsoft erzielt, die im November 2022 bei der Europäischen Kommission eingereicht wurden. Im Rahmen einer von beiden Parteien unterzeichneten Absichtserklärung hat sich Microsoft verpflichtet, bestimmte Änderungen vorzunehmen, um den Behauptungen der europäischen CISPE-Mitglieder Rechnung zu tragen, und infolgedessen wird CISPE seine Beschwerde gegen Microsoft zurückziehen. Amazon Web Services, ein CISPE-Mitglied, wurde von diesen Verhandlungen ausgeschlossen und wird zusammen mit Google Cloud Platform und AliCloud weder von diesen Bedingungen profitieren noch an sie gebunden sein.
   
 Im Mittelpunkt der Vereinbarung steht eine Zusammenarbeit zwischen den Parteien zur Veröffentlichung einer erweiterten Version von Azure Stack HCI für europäische Cloudanbieter (Azure HCI Stack for Hosters), um Funktionen anzubieten, die Microsoft-Kunden, die Azure Stack HCI verwenden, heute nutzen. Zu diesen Funktionen gehören:
