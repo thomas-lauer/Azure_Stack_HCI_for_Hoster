@@ -4,10 +4,10 @@ Im Mittelpunkt der Vereinbarung steht eine Zusammenarbeit zwischen den Parteien 
 Virtuelle Desktop-Infrastruktur für mehrere Sitzungen basierend auf Windows 11
 Kostenlose erweiterte Sicherheitsupdates (ESU)
 Lizenzierung mit nutzungsbasierter Bezahlung für SQL Server.
-
-[Die Vereinbarung über einen gerechten Ausgleich](https://cispe.cloud/cispe-and-microsoft-agree-settlement-in-fair-software-licensing-case/)
-
+  
+[Die Vereinbarung über einen gerechten Ausgleich](https://cispe.cloud/cispe-and-microsoft-agree-settlement-in-fair-software-licensing-case/)  
+  
 Seiten die man im Auge behalten sollten    
-[Azure Virtual Desktop mit Azure Stack HCI](https://learn.microsoft.com/de-de/azure/virtual-desktop/azure-stack-hci-overview#licensing-and-pricing)
+[Azure Virtual Desktop mit Azure Stack HCI](https://learn.microsoft.com/de-de/azure/virtual-desktop/azure-stack-hci-overview#licensing-and-pricing)  
 [How to run Azure Virtual Desktop on-premises](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/how-to-run-azure-virtual-desktop-on-premises/ba-p/4046698)
 
